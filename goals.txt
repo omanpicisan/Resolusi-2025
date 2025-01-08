@@ -1,4 +1,4 @@
-1.bisa html
+1.bisa bisa ngaji
 2.bisa js
 3.bisa css
 4.bisa sql
