@@ -1,4 +1,5 @@
-1.bisa bisa ngaji
+
+1.bisa desain
 2.bisa js
 3.bisa css
 4.bisa sql
